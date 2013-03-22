@@ -146,4 +146,5 @@ printf ("\nFloat d=0.01, e=0.01:\n");
     printf ("d+2.03 f+2.03 time=%.2f sec\n",((float)time)/CLOCKS_PER_SEC);
 
     return (EXIT_SUCCESS);
+    printf("HEllo");
 }
