@@ -13,6 +13,7 @@ int main(int argc, char** argv) {
 int a,b,c,i;
 float start, end, time;
 //***********************************
+printf ("Привет от разработчика (Hello)!\n");
         printf ("Integer a=1,b=3:\n");
 a=1;b=3;
 start =  clock();
